@@ -1,0 +1,13 @@
+Reference link:
+
+https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/
+
+https://dronebotworkshop.com/esp32-cam-intro/
+
+https://create.arduino.cc/projecthub/noah_arduino/using-esp32-cam-with-arduino-b4f12c
+
+https://all3dp.com/2/esp32-cam-arduino-tutorial/#:~:text=Restart%20Arduino%20IDE%20and%20connect,AI%20Thinker%20ESP32%2DCAM%E2%80%9D.
+
+ESP32-CAM + Board Reference Link : 
+
+https://randomnerdtutorials.com/upload-code-esp32-cam-mb-usb/
